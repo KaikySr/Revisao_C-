@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\exercicios_kaiky\obj\Debug\net6.0\exercicios_kaiky.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\exercicios_kaiky\obj\Debug\net6.0\exercicios_kaiky.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\exercicios_kaiky\obj\Debug\net6.0\exercicios_kaiky.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\exercicios_kaiky\obj\Debug\net6.0\exercicios_kaiky.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\exercicios_kaiky\obj\Debug\net6.0\exercicios_kaiky.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\exercicios_kaiky\bin\Debug\net6.0\exercicios_kaiky.exe
+C:\Users\Aluno\Desktop\exercicios_kaiky\bin\Debug\net6.0\exercicios_kaiky.deps.json
+C:\Users\Aluno\Desktop\exercicios_kaiky\bin\Debug\net6.0\exercicios_kaiky.runtimeconfig.json
+C:\Users\Aluno\Desktop\exercicios_kaiky\bin\Debug\net6.0\exercicios_kaiky.dll
+C:\Users\Aluno\Desktop\exercicios_kaiky\bin\Debug\net6.0\ref\exercicios_kaiky.dll
+C:\Users\Aluno\Desktop\exercicios_kaiky\bin\Debug\net6.0\exercicios_kaiky.pdb
+C:\Users\Aluno\Desktop\exercicios_kaiky\obj\Debug\net6.0\exercicios_kaiky.dll
+C:\Users\Aluno\Desktop\exercicios_kaiky\obj\Debug\net6.0\ref\exercicios_kaiky.dll
+C:\Users\Aluno\Desktop\exercicios_kaiky\obj\Debug\net6.0\exercicios_kaiky.pdb
+C:\Users\Aluno\Desktop\exercicios_kaiky\obj\Debug\net6.0\exercicios_kaiky.genruntimeconfig.cache
